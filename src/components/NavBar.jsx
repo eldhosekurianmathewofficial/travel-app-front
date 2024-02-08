@@ -39,7 +39,7 @@ const NavBar = () => {
               </li>
 
               <li class="nav-item">
-                <a class="nav-link" href="/view">
+                <a class="nav-link" href="/search">
                   search Data
                 </a>
               </li>
